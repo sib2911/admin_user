@@ -1,0 +1,8 @@
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-group-item:hover {
+    background-color: aquamarine;
+}
