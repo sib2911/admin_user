@@ -1,0 +1,17 @@
+.link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.list-group-item:hover {
+    background-color: aquamarine;
+}
+
+#topfriends{
+    max-width: 300px;
+    max-height: 1200px;
+}
+
+.fixedblock{
+    position: fixed;
+}
